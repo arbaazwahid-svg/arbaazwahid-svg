@@ -12,7 +12,7 @@ I move from hypothesis to validated concept at startup speed by building my own 
 * **Current Stack:** Next.js, Vercel, Flutter, iOS, React, and Python.
 * **AI Expertise:** LLM integrations, prompt engineering, and local LLMs (Ollama) using tools like Cursor and Claude.
 
-* ### 📂 Featured Projects
+### 📂 Featured Projects
 * **MotoSeenAfrica** news and content site for business enthusiasts in the EastAfrica region: https://www.motoseenafrica.com/
 * **Destiny Hub** gaming website for Destiny 2 that bookmarks all third party links in a single location, currently has 100 active users per month: https://www.destiny-hub.xyz/
 * **Re:Me** AI-Powered web assistant that remembers your likes and dislikes: https://re-me-webapp.azurewebsites.net/
