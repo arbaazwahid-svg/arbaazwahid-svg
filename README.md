@@ -1,23 +1,21 @@
 # Hi, I'm Arbaaz Abdulwahid 👋 
 
-[cite_start]I turn complex developer products into **self-serve growth engines**[cite: 28]. [cite_start]As a Senior Product Manager, I bridge the gap between deep technical infrastructure and hypothesis-driven product growth[cite: 33, 67].
+I turn complex developer products into **self-serve growth engines**. As a Senior Product Manager, I specialize in building AI prototypes to validate ideas fast and scaling products to hundreds of thousands of users.
 
-### 🚀 At a Glance
-- [cite_start]**Ex-Microsoft:** Reduced developer onboarding from 4 hours to 21 minutes for Entra External ID[cite: 28].
-- [cite_start]**Ex-Safaricom:** Scaled M-Pesa’s Daraja API to 5,000+ merchants and MySafaricom to 2.5M users[cite: 30].
-- [cite_start]**Rapid Prototyper:** I build full-stack web, iOS, and AI-powered tools to de-risk product decisions[cite: 32, 33].
+### 🚀 Performance Highlights
+* **Microsoft Entra:** Reduced developer onboarding from 4+ hours to 21 minutes and increased activation rates from 30% to 45%.
+* **Safaricom Daraja:** Scaled the API platform to 5,000+ merchants and reduced onboarding time from 2 weeks to 3 hours.
+* **MySafaricom:** Delivered a 4.5-star rated app to 2.5M active users.
 
-### 🛠 Technical Stack & AI Prototyping
-- [cite_start]**Frameworks:** Next.js, Flutter, React, Node.js [cite: 42].
-- [cite_start]**AI/ML:** LLM integrations, Ollama (local LLMs), Prompt Engineering[cite: 32, 37].
-- [cite_start]**Tools:** Cursor, Claude, Vercel[cite: 31, 42].
-- [cite_start]**Cloud/Infra:** Azure, AWS, Apigee API Platform[cite: 13, 103].
+### 🛠 Technical & AI Prototyping
+I move from hypothesis to validated concept at startup speed by building my own tools:
+* **Current Stack:** Next.js, Vercel, Flutter, iOS, React, and Python.
+* **AI Expertise:** LLM integrations, prompt engineering, and local LLMs (Ollama) using tools like Cursor and Claude.
 
-### 📈 Core Expertise
-- [cite_start]**Developer Experience (DX):** API platforms, self-serve onboarding, and technical documentation[cite: 40, 41].
-- [cite_start]**Product Growth:** Funnel optimization, A/B testing, and PLG motions[cite: 38, 39, 67].
-- [cite_start]**Infrastructure:** Microservices, Cloud Governance, and ITIL Frameworks[cite: 15, 104, 115].
+### 🏆 Certifications & Skills
+* **Certifications:** ITIL® Foundation, Google Cloud Apigee (API Design & Development), IBM Blockchain Essentials.
+* **Core Expertise:** Product Strategy (0-1), Rapid Prototyping, and Developer Experience (DX).
 
-### 📫 Let's Connect
-- [cite_start]**LinkedIn:** [linkedin.com/in/arbaazwahid](https://www.linkedin.com/in/arbaazwahid) [cite: 3]
-- [cite_start]**Focus:** I'm looking for Senior PM roles in AI-powered products and developer platforms[cite: 50, 52].
+### 📫 Connect with Me
+* **LinkedIn:** [linkedin.com/in/arbaazwahid](https://www.linkedin.com/in/arbaazwahid)
+* **Location:** Nairobi, Kenya
